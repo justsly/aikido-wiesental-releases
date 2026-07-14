@@ -1,9 +1,9 @@
 {
   "theme": "aikido-wiesental",
-  "version": "3.8.4",
-  "release": "v8",
-  "zip_url": "https://raw.githubusercontent.com/justsly/aikido-wiesental-releases/main/aikido-wiesental-theme-v8.zip",
-  "sha256": "2f951d1017f67caf8d927123dbf52fdcc8172e00c49733cf2b821c903f8032fd",
-  "generated_at_utc": "2026-07-13T21:33:56Z",
-  "source_commit": "5737d2811f652056e3be2e0cd3cdf9023ddf8218"
+  "version": "3.8.12",
+  "release": "v2002",
+  "zip_url": "https://raw.githubusercontent.com/justsly/aikido-wiesental-releases/main/aikido-wiesental-theme-v2002.zip",
+  "sha256": "e93a4ff955382e43066cb1958b5f1d2a53dad7e8e767fcbc42e5023ef42c7681",
+  "generated_at_utc": "2026-07-14T22:01:38Z",
+  "source_commit": "8d9b24245836b9dbf1ffed2b934021117ea5f10d"
 }
